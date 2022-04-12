@@ -1,6 +1,6 @@
 ---
 title: Aditya Agrawal
-role: Computer Science Engineering undergrad \n BITS Pilani Goa Campus
+role: Computer Science Engineering undergrad BITS Pilani, KK Birla Goa Campus
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
