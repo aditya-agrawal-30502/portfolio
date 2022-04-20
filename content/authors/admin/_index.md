@@ -10,33 +10,21 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:f20201381@goa.bits-pilani.ac.in
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/aditya-agrawal-30502
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/aditya-agrawal-9aba24208/
 organizations:
   - name: BITS Pilani, KK Birla Goa Campus
     url: https://www.bits-pilani.ac.in/goa/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "BTech in Computer Science "
+      institution: Birla Institute of Technology and Science, Pilani - KK Birla Goa Campus
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
