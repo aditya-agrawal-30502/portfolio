@@ -1,8 +1,7 @@
 ---
 title: Aditya Agrawal
 role: "Computer Science Engineering undergrad "
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -25,13 +24,13 @@ education:
     - course: "BTech in Computer Science "
       institution: Birla Institute of Technology and Science, Pilani - KK Birla Goa Campus
       year: ""
-email: ""
+email: f20201381@goa.bits-pilani.ac.in
 superuser: true
+user_groups: []
 highlight_name: true
 ---
+I am a sophemore year undergraduate student at [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/). I am primarily interested in the fields of Deep Learning , Meta-Learning and have also started looking into neuro-symbolic integration.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+At BITS Goa, I have been working with various people at the [APP Center for AI Research](https://www.bits-pilani.ac.in/appcair/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a member of the [Society for Artificial Intelligence and Deep Learning](https://www.saidl.in/).
