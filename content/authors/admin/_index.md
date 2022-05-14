@@ -4,8 +4,9 @@ role: "Computer Science Engineering undergrad "
 bio: ""
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Deep Learning
+  - Reinforcement Learning
 social:
   - icon: envelope
     icon_pack: fas
