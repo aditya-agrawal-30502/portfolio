@@ -30,7 +30,7 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a sophemore year undergraduate student at [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/). I am primarily interested in the fields of Deep Learning , Meta-Learning and have also started looking into neuro-symbolic integration.
+I am a sophemore undergraduate student at [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/). I am primarily interested in the fields of Deep Learning , Meta-Learning and have also started looking into neuro-symbolic integration.
 
 At BITS Goa, I have been working with various people at the [APP Center for AI Research](https://www.bits-pilani.ac.in/appcair/). 
 
