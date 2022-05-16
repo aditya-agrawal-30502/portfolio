@@ -42,7 +42,7 @@ experience:
     description: |2-
         Advisors : 
         
-        * Prof. Ashwin Srinivasan, Prof. Tanmay Verlekar, Prof. Tirthraj Dash, Dr. Lovekesh Vig, Dr. Gautam Shroff
+        * Prof. Ashwin Srinivasan, Prof. Tanmay Verlekar, Prof. Tirthraj Dash, Dr. Lovekesh Vig, Dr. Gautam Shroff <br />
         Currently working on using neurosymbolic methods for arrhythmia detection.
 
 design:
