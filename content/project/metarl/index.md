@@ -6,7 +6,7 @@ tags:
 date: "2022-04-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/SforAiDl/vformer"
+external_link: "https://github.com/AnirudhM1/Meta-Learning-Project"
 
 url_code: ""
 url_pdf: ""
