@@ -2,7 +2,7 @@
 title: Disentangled Predictive Representation for Meta-Reinforcement Learning 
 summary: Paper Implementation of 'Disentangled Predictive Representation for Meta-Reinforcement Learning'
 tags:
-- Reinforcement Learning
+- Deep Learning
 date: "2022-04-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
