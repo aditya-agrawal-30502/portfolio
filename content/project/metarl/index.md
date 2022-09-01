@@ -3,16 +3,11 @@ title: Disentangled Predictive Representation for Meta-Reinforcement Learning
 summary: Paper Implementation of 'Disentangled Predictive Representation for Meta-Reinforcement Learning'
 tags:
 - Reinforcement Learning
-date: "2021-08-27T00:00:00Z"
+date: "2022-04-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/SforAiDl/vformer"
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/SforAiDL
 url_code: ""
 url_pdf: ""
 url_slides: ""
