@@ -2,7 +2,7 @@
 title: Vformer
 summary: A modular PyTorch library for vision transformers models
 tags:
-- Deep Learning
+- Computer Vision
 date: "2021-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
