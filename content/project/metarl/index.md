@@ -1,6 +1,6 @@
 ---
-title: Vformer
-summary: A modular PyTorch library for vision transformers models
+title: Disentangled Predictive Representation for Meta-Reinforcement Learning
+summary: Paper Implementation of 'Disentangled Predictive Representation for Meta-Reinforcement Learning'
 tags:
 - Reinforcement Learning
 date: "2021-08-27T00:00:00Z"
