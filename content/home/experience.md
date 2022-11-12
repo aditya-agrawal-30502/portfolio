@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Undergraduate Researcher
+  - title: Undergraduate Researcher
     company: APP Center for AI Research, BITS Goa
     company_url: 'https://www.bits-pilani.ac.in/appcair/'
     location: Remote
@@ -35,7 +35,7 @@ experience:
         
         Using semantic loss to train a neural network to extract features for logical theory on time-series data and applying it to ecg arrhythmia detection for explainable predictions.
 
-- title: Intern
+  - title: Intern
     company: Oyla
     company_url: 'https://www.oyla.ai'
     location: Remote
