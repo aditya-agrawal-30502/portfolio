@@ -27,11 +27,13 @@ experience:
     company_url: 'https://www.oyla.ai'
     location: Remote
     date_start: '2022-05-23'
-    date_end: ''
+    date_end: '2022-08-23'
     description: |2-
         Advisors:
         
-        * Dr. Lovekesh Vig
+        * Dr. Raghavendra Singh <br />
+        
+        Using DPT model on RGB-D images by changing the feature extractors to incorporate depth information in embeddings.
 
   - title: Undergraduate Researcher
     company: APP Center for AI Research, BITS Goa
@@ -42,9 +44,9 @@ experience:
     description: |2-
         Advisors : 
         
-        * Prof. Ashwin Srinivasan, Prof. Tanmay Verlekar, Prof. Tirthraj Dash, Dr. Lovekesh Vig, Dr. Gautam Shroff <br />
+        * Dr. Ashwin Srinivasan, Dr. Lovekesh Vig, Dr. Tanmay Verlekar, Dr. Tirthraj Dash,  Dr. Gautam Shroff <br />
         
-        Currently working on using neurosymbolic methods for arrhythmia detection.
+        Using semantic loss to train a neural network to extract features for logical theory on time-series data and applying it to ecg arrhythmia detection for explainable predictions.
 
 design:
   columns: '2'
