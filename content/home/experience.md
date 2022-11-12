@@ -22,20 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Intern
-    company: Oyla
-    company_url: 'https://www.oyla.ai'
-    location: Remote
-    date_start: '2022-05-23'
-    date_end: '2022-08-23'
-    description: |2-
-        Advisors:
-        
-        * Dr. Raghavendra Singh <br />
-        
-        Using DPT model on RGB-D images by changing the feature extractors to incorporate depth information in embeddings.
-
-  - title: Undergraduate Researcher
+- title: Undergraduate Researcher
     company: APP Center for AI Research, BITS Goa
     company_url: 'https://www.bits-pilani.ac.in/appcair/'
     location: Remote
@@ -48,6 +35,18 @@ experience:
         
         Using semantic loss to train a neural network to extract features for logical theory on time-series data and applying it to ecg arrhythmia detection for explainable predictions.
 
+- title: Intern
+    company: Oyla
+    company_url: 'https://www.oyla.ai'
+    location: Remote
+    date_start: '2022-05-23'
+    date_end: '2022-08-23'
+    description: |2-
+        Advisors:
+        
+        * Dr. Raghavendra Singh <br />
+        
+        Using DPT model on RGB-D images by changing the feature extractors to incorporate depth information in embeddings.
 design:
   columns: '2'
 ---
