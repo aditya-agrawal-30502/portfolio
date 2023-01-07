@@ -22,12 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: Adobe MDSR Lab
+    company_url: 'https://research.adobe.com/'
+    location: Remote
+    date_start: '2022-10-01'
+    date_end: ''
+    description: |2-
+        Advisors : 
+        
+        * Mr, Yaman Kumar <br />
+        
+        Studying the correlation between Attentivity and Memoribility on video Ads.
+
+
   - title: Undergraduate Researcher
     company: APP Center for AI Research, BITS Goa
     company_url: 'https://www.bits-pilani.ac.in/appcair/'
-    location: Remote
-    date_start: '2022-02-01'
-    date_end: ''
+    location: BITS Pilani, Goa Campus
+    date_start: '2022-01-01'
+    date_end: '2023-01-01'
     description: |2-
         Advisors : 
         
