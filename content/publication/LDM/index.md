@@ -3,7 +3,7 @@ title: "Latent Representation Matters: Human-like Sketches in One-shot Drawing T
 authors:
 - Martin Q. Ma
 - Willis Guo
-- *Aditya Agrawal*
+- Aditya Agrawal
 - Ankit Gupta
 - Paul Pu Liang
 - Russ Salakhutdinov
