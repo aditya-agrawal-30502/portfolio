@@ -1,13 +1,13 @@
 ---
 title: "Latent Representation Matters: Human-like Sketches in One-shot Drawing Tasks"
 authors:
-- Martin Q. Ma
-- Willis Guo
+- Victor Boutin
+- Rishav Mukherji
 - Aditya Agrawal
-- Ankit Gupta
-- Paul Pu Liang
-- Russ Salakhutdinov
-- Louis-Philippe Morency
+- Sabine Muzellec
+- Thomas Fel
+- Thomas Serre
+- Rufin VanRullen
 date: "2024-07-01T00:00:00Z"
 doi: "	"
 
@@ -21,8 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Thirty-Eighth Annual Conference on Neural Information Processing Systems*
-publication_short: In *NeurIPS 2024*
+publication: At *The Thirty-Eighth Annual Conference on Neural Information Processing Systems*
+publication_short: At *NeurIPS 2024*
 
 abstract: Humans can effortlessly draw new categories from a single exemplar, a feat that has long posed a challenge for generative models. However, this gap has started to close with recent advances in diffusion models. This one-shot drawing task requires powerful inductive biases that have not been systematically investigated. Here, we study how different inductive biases shape the latent space of Latent Diffusion Models (LDMs). Along with standard LDM regularizers (KL and vector quantization), we explore supervised regularizations (including classification and prototype-based representation) and contrastive inductive biases (using SimCLR and redundancy reduction objectives). We demonstrate that LDMs with redundancy reduction and prototype-based regularizations produce near-human-like drawings (regarding both samples' recognizability and originality) -- better mimicking human perception (as evaluated psychophysically). Overall, our results suggest that the gap between humans and machines in one-shot drawings is almost closed.
 
