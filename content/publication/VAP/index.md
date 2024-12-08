@@ -22,7 +22,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: At *The Thirteenth International Conference on Learning Representations*
-publication_short: At *ICLR 2025*
+publication_short: At *ICLR 2025 (under review)*
 
 abstract: Large vision-language models (VLMs) have advanced multimodal tasks such as video question answering (QA), yet they struggle with long-form videos due to the computational burden of processing excessive tokens. Inspired by active perception theory, which posits that models gain information by acquiring data that differ from their expectations, we introduce Video Active Perception (VAP), a training-free method to enhance long-form video QA using VLMs. Our approach treats key frame selection as data acquisition in active perception and leverages a lightweight text-conditioned video generation model to represent prior world knowledge. Empirically, VAP achieves state-of-the-art zero-shot results on long-form video QA datasets such as EgoSchema, NExT-QA, ActivityNet-QA and CLEVRER, achieving an increase of up to 5.6 X efficiency by frames per question over standard GPT-4o, Gemini 1.5 Pro, and LLaVA-OV. Moreover, VAP shows stronger reasoning abilities than previous methods and effectively selects key frames relevant to questions. These findings highlight the potential of leveraging active perception to improve efficiency and effectiveness of long-form video QA.
 
