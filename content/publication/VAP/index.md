@@ -1,13 +1,13 @@
 ---
-title: "Latent Representation Matters: Human-like Sketches in One-shot Drawing Tasks"
+title: "Video Active Perception: Efficient Inference-Time Long-Form Video Understanding with Vision-Language Models"
 authors:
-- Victor Boutin
-- Rishav Mukherji
+- Martin Q. Ma
+- Willis Guo
 - Aditya Agrawal
-- Sabine Muzellec
-- Thomas Fel
-- Thomas Serre
-- Rufin VanRullen
+- Ankit Gupta
+- Paul Pu Liang
+- Russ Salakhutdinov
+- Louis-Philippe Morency
 date: "2025-07-01T00:00:00Z"
 doi: ""
 
