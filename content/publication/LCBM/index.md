@@ -40,7 +40,7 @@ featured: true
 links:
 - name: Abstract
   url: 'https://arxiv.org/abs/2309.00359'
-url_pdf: 'https://arxiv.org//2309.00359'
+url_pdf: 'https://arxiv.org/pdf/2309.00359'
 url_code: ''
 url_dataset: ''
 url_poster: ''
