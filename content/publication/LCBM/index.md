@@ -1,15 +1,19 @@
 ---
-title: "Latent Representation Matters: Human-like Sketches in One-shot Drawing Tasks"
+title: "Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior"
 authors:
-- Victor Boutin
-- Rishav Mukherji
-- Aditya Agrawal
-- Sabine Muzellec
-- Thomas Fel
-- Thomas Serre
-- Rufin VanRullen
+- Ashmit Khandelwal<sup>*<\sup>
+- Aditya Agrawal<sup>*<\sup>
+- Aanisha Bhattacharyya<sup>*<\sup>
+- Yaman Kumar<sup>*<\sup>
+- Somesh Singh
+- Uttaran Bhattacharya
+- Ishita Dasgupta
+- Stefano Petrangeli
+- Rajiv Ratn Shah
+- Changyou Chen
+- Balaji Krishnamurthy
 date: "2024-07-01T00:00:00Z"
-doi: "	"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,10 +25,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Thirty-Eighth Annual Conference on Neural Information Processing Systems*
-publication_short: In *NeurIPS 2024*
+publication: In *The Twelfth International Conference on Learning Representations*
+publication_short: In *ICLR 2024*
 
-abstract: Humans can effortlessly draw new categories from a single exemplar, a feat that has long posed a challenge for generative models. However, this gap has started to close with recent advances in diffusion models. This one-shot drawing task requires powerful inductive biases that have not been systematically investigated. Here, we study how different inductive biases shape the latent space of Latent Diffusion Models (LDMs). Along with standard LDM regularizers (KL and vector quantization), we explore supervised regularizations (including classification and prototype-based representation) and contrastive inductive biases (using SimCLR and redundancy reduction objectives). We demonstrate that LDMs with redundancy reduction and prototype-based regularizations produce near-human-like drawings (regarding both samples' recognizability and originality) -- better mimicking human perception (as evaluated psychophysically). Overall, our results suggest that the gap between humans and machines in one-shot drawings is almost closed.
+abstract: "Shannon and Weaver's seminal information theory divides communication into three levels: technical, semantic, and effectiveness. While the technical level deals with the accurate reconstruction of transmitted symbols, the semantic and effectiveness levels deal with the inferred meaning and its effect on the receiver. Large Language Models (LLMs), with their wide generalizability, make some progress towards the second level. However, LLMs and other communication models are not conventionally designed for predicting and optimizing communication for desired receiver behaviors and intents. As a result, the effectiveness level remains largely untouched by modern communication systems. In this paper, we introduce the receivers' "behavior tokens," such as shares, likes, clicks, purchases, and retweets, in the LLM's training corpora to optimize content for the receivers and predict their behaviors. Other than showing similar performance to LLMs on content understanding tasks, our trained models show generalization capabilities on the behavior dimension for behavior simulation, content simulation, behavior understanding, and behavior domain adaptation. We show results on all these capabilities using a wide range of tasks on three corpora. We call these models Large Content and Behavior Models (LCBMs). Further, to spur more research on LCBMs, we release our new Content Behavior Corpus (CBC), a repository containing communicator, message, and corresponding receiver behavior."
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
