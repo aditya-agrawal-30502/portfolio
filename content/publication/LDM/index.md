@@ -9,7 +9,7 @@ authors:
 - Thomas Serre
 - Rufin VanRullen
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "	arXiv:2406.06079"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -34,13 +34,14 @@ tags:
 featured: true
 
 links:
+- name: Abstract
+  url: 'https://arxiv.org/abs/2406.06079'
 url_pdf: 'https://arxiv.org/pdf/2406.06079'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_abstract: 'https://arxiv.org/abs/2406.06079'
 url_video: ''
 
 # Featured image
