@@ -23,7 +23,7 @@ organizations:
 education:
   courses:
     - course: "Masters of Science in Machine Learning"
-      institution: Carnegie Mellon University
+      institution: Carnegie Mellon University - School of Computer Science
       year: "2025"
 
     - course: "Bachelors of Engineering in Computer Science"
