@@ -34,8 +34,8 @@ tags:
 featured: true
 
 links:
-- name: Abstract
-  url: ''
+# - name: Abstract
+#   url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''

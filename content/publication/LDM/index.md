@@ -9,7 +9,7 @@ authors:
 - Thomas Serre
 - Rufin VanRullen
 date: "2024-07-01T00:00:00Z"
-doi: "	"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
