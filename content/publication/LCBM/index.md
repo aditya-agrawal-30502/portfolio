@@ -1,17 +1,17 @@
 ---
 title: "Large Content And Behavior Models To Understand, Simulate, And Optimize Content And Behavior"
 authors:
-- Ashmit Khandelwal<sup>*<\sup>
-- Aditya Agrawal<sup>*<\sup>
-- Aanisha Bhattacharyya<sup>*<\sup>
-- Yaman Kumar<sup>*<\sup>
-- Somesh Singh
-- Uttaran Bhattacharya
-- Ishita Dasgupta
-- Stefano Petrangeli
-- Rajiv Ratn Shah
-- Changyou Chen
-- Balaji Krishnamurthy
+- "Ashmit Khandelwal<sup>*<\sup>"
+- "Aditya Agrawal<sup>*<\sup>"
+- "Aanisha Bhattacharyya<sup>*<\sup>"
+- "Yaman Kumar<sup>*<\sup>"
+- "Somesh Singh"
+- "Uttaran Bhattacharya"
+- "Ishita Dasgupta"
+- "Stefano Petrangeli"
+- "Rajiv Ratn Shah"
+- "Changyou Chen"
+- "Balaji Krishnamurthy"
 date: "2024-07-01T00:00:00Z"
 doi: ""
 
@@ -39,8 +39,8 @@ featured: true
 
 links:
 - name: Abstract
-  url: 'https://arxiv.org/abs/2406.06079'
-url_pdf: 'https://arxiv.org/pdf/2406.06079'
+  url: 'https://arxiv.org/abs/2309.00359'
+url_pdf: 'https://arxiv.org/pdf/2309.00359'
 url_code: ''
 url_dataset: ''
 url_poster: ''
