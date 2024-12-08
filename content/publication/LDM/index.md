@@ -40,7 +40,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://arxiv.org/abs/2406.06079'
+url_abstract: 'https://arxiv.org/abs/2406.06079'
 url_video: ''
 
 # Featured image
