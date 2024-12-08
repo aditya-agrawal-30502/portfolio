@@ -8,8 +8,8 @@ authors:
 - Thomas Fel
 - Thomas Serre
 - Rufin VanRullen
-date: "2013-07-01T00:00:00Z"
-doi: "	arXiv:2406.06079"
+date: "2024-07-01T00:00:00Z"
+doi: "	"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -64,7 +64,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 <!-- {{% callout note %}}
