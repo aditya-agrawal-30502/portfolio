@@ -34,8 +34,6 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a sophemore undergraduate student at [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/). I am primarily interested in the fields of Deep Learning , Meta-Learning and have also started looking into neuro-symbolic integration.
+I am a first year student at Carnegie Mellon University persuing my Masters of Science in Machine Learning.
 
-At BITS Goa, I have been working with various people at the [APP Center for AI Research](https://www.bits-pilani.ac.in/appcair/). 
-
-I am a member of the [Society for Artificial Intelligence and Deep Learning](https://www.saidl.in/).
+I am currently working with Martin Ma at the Russ lab onimproving sample efficiency of Large Language Model.

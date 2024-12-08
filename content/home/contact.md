@@ -18,8 +18,8 @@ content:
   # Email form provider
 
   # Contact details (edit or remove options as required)
-  email: f20201381@goa.bits-pilani.ac.in
-  phone: +91 8879459970
+  email: adagrawa@cs.cmu.edu
+  phone: +14127803332
 
 design:
   columns: '2'
