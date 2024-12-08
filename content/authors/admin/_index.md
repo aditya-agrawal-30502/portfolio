@@ -3,10 +3,6 @@ title: Aditya Agrawal
 role: "Carnegie Mellon University - School of Computer Science "
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Deep Learning
-  - Reinforcement Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,4 +32,4 @@ highlight_name: true
 ---
 I am a first year student at Carnegie Mellon University persuing my Masters of Science in Machine Learning.
 
-I am currently working with Martin Ma at the Russ lab onimproving sample efficiency of Large Language Model.
+I am currently working with Martin Ma at the Russ lab on improving sample efficiency of Large Language Model.
